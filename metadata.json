@@ -1,0 +1,5 @@
+{
+  "name": "BugScribe AI",
+  "description": "A React-based tool for manual testers to collect error notes and generate professional, grammar-corrected bug reports using Google Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
